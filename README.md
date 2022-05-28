@@ -1,3 +1,5 @@
+FaceRecognition.apk download this apk to get the idea about application
+
 # Real Time Face Recognition App using TfLite
 
 A minimalistic Face Recognition module which can be easily incorporated in any Android project.
